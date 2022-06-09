@@ -1,0 +1,32 @@
+[17-May-2022 13:02:54 UTC] PHP Notice:  Undefined index: host in /home/coveuyzh/public_html/admin/dbconnect.php on line 14
+[17-May-2022 13:02:54 UTC] PHP Notice:  Undefined index: user in /home/coveuyzh/public_html/admin/dbconnect.php on line 15
+[17-May-2022 13:02:54 UTC] PHP Notice:  Undefined index: pass in /home/coveuyzh/public_html/admin/dbconnect.php on line 16
+[17-May-2022 13:02:54 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'coveuyzh'@'localhost' (using password: NO) in /home/coveuyzh/public_html/admin/dbconnect.php on line 23
+[17-May-2022 16:15:28 UTC] PHP Notice:  Undefined index: host in /home/coveuyzh/public_html/admin/dbconnect.php on line 14
+[17-May-2022 16:15:28 UTC] PHP Notice:  Undefined index: user in /home/coveuyzh/public_html/admin/dbconnect.php on line 15
+[17-May-2022 16:15:28 UTC] PHP Notice:  Undefined index: pass in /home/coveuyzh/public_html/admin/dbconnect.php on line 16
+[17-May-2022 16:15:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'coveuyzh'@'localhost' (using password: NO) in /home/coveuyzh/public_html/admin/dbconnect.php on line 23
+[17-May-2022 16:15:28 UTC] PHP Notice:  Undefined index: host in /home/coveuyzh/public_html/admin/dbconnect.php on line 14
+[17-May-2022 16:15:28 UTC] PHP Notice:  Undefined index: user in /home/coveuyzh/public_html/admin/dbconnect.php on line 15
+[17-May-2022 16:15:28 UTC] PHP Notice:  Undefined index: pass in /home/coveuyzh/public_html/admin/dbconnect.php on line 16
+[17-May-2022 16:15:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'coveuyzh'@'localhost' (using password: NO) in /home/coveuyzh/public_html/admin/dbconnect.php on line 23
+[17-May-2022 18:28:10 UTC] PHP Notice:  Undefined index: host in /home/coveuyzh/public_html/admin/dbconnect.php on line 14
+[17-May-2022 18:28:10 UTC] PHP Notice:  Undefined index: user in /home/coveuyzh/public_html/admin/dbconnect.php on line 15
+[17-May-2022 18:28:10 UTC] PHP Notice:  Undefined index: pass in /home/coveuyzh/public_html/admin/dbconnect.php on line 16
+[17-May-2022 18:28:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'coveuyzh'@'localhost' (using password: NO) in /home/coveuyzh/public_html/admin/dbconnect.php on line 23
+[17-May-2022 18:28:10 UTC] PHP Notice:  Undefined index: host in /home/coveuyzh/public_html/admin/dbconnect.php on line 14
+[17-May-2022 18:28:10 UTC] PHP Notice:  Undefined index: user in /home/coveuyzh/public_html/admin/dbconnect.php on line 15
+[17-May-2022 18:28:10 UTC] PHP Notice:  Undefined index: pass in /home/coveuyzh/public_html/admin/dbconnect.php on line 16
+[17-May-2022 18:28:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'coveuyzh'@'localhost' (using password: NO) in /home/coveuyzh/public_html/admin/dbconnect.php on line 23
+[17-May-2022 18:45:28 UTC] PHP Notice:  Undefined index: host in /home/coveuyzh/public_html/admin/dbconnect.php on line 14
+[17-May-2022 18:45:28 UTC] PHP Notice:  Undefined index: user in /home/coveuyzh/public_html/admin/dbconnect.php on line 15
+[17-May-2022 18:45:28 UTC] PHP Notice:  Undefined index: pass in /home/coveuyzh/public_html/admin/dbconnect.php on line 16
+[17-May-2022 18:45:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'coveuyzh'@'localhost' (using password: NO) in /home/coveuyzh/public_html/admin/dbconnect.php on line 23
+[17-May-2022 18:47:30 UTC] PHP Notice:  Undefined index: host in /home/coveuyzh/public_html/admin/dbconnect.php on line 14
+[17-May-2022 18:47:30 UTC] PHP Notice:  Undefined index: user in /home/coveuyzh/public_html/admin/dbconnect.php on line 15
+[17-May-2022 18:47:30 UTC] PHP Notice:  Undefined index: pass in /home/coveuyzh/public_html/admin/dbconnect.php on line 16
+[17-May-2022 18:47:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'coveuyzh'@'localhost' (using password: NO) in /home/coveuyzh/public_html/admin/dbconnect.php on line 23
+[06-Jun-2022 16:05:03 UTC] PHP Notice:  Undefined index: adminSession in /home/coveuyzh/public_html/admin/adminDashboard.php on line 10
+[07-Jun-2022 12:50:11 UTC] PHP Notice:  Undefined index: adminSession in /home/coveuyzh/public_html/admin/account_history.php on line 10
+[07-Jun-2022 15:15:59 UTC] PHP Notice:  Undefined index: adminSession in /home/coveuyzh/public_html/admin/donatelist.php on line 10
+[07-Jun-2022 17:14:47 UTC] PHP Notice:  Undefined index: adminSession in /home/coveuyzh/public_html/admin/adminDashboard.php on line 10

@@ -1,0 +1,289 @@
+[17-May-2022 19:02:03 UTC] PHP Notice:  Undefined index: host in /home/coveuyzh/public_html/user/dbconnect.php on line 14
+[17-May-2022 19:02:03 UTC] PHP Notice:  Undefined index: user in /home/coveuyzh/public_html/user/dbconnect.php on line 15
+[17-May-2022 19:02:03 UTC] PHP Notice:  Undefined index: pass in /home/coveuyzh/public_html/user/dbconnect.php on line 16
+[17-May-2022 19:02:03 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'coveuyzh'@'localhost' (using password: NO) in /home/coveuyzh/public_html/user/dbconnect.php on line 23
+[17-May-2022 19:02:31 UTC] PHP Notice:  Undefined index: host in /home/coveuyzh/public_html/user/dbconnect.php on line 14
+[17-May-2022 19:02:31 UTC] PHP Notice:  Undefined index: user in /home/coveuyzh/public_html/user/dbconnect.php on line 15
+[17-May-2022 19:02:31 UTC] PHP Notice:  Undefined index: pass in /home/coveuyzh/public_html/user/dbconnect.php on line 16
+[17-May-2022 19:02:31 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'coveuyzh'@'localhost' (using password: NO) in /home/coveuyzh/public_html/user/dbconnect.php on line 23
+[17-May-2022 19:02:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/coveuyzh/public_html/user/userDashboard.php on line 11
+[17-May-2022 19:02:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/coveuyzh/public_html/user/userDashboard.php on line 12
+[17-May-2022 19:02:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/coveuyzh/public_html/user/userDashboard.php on line 126
+[17-May-2022 19:02:31 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/coveuyzh/public_html/user/userDashboard.php on line 128
+[17-May-2022 19:02:51 UTC] PHP Notice:  Undefined index: host in /home/coveuyzh/public_html/user/dbconnect.php on line 14
+[17-May-2022 19:02:51 UTC] PHP Notice:  Undefined index: user in /home/coveuyzh/public_html/user/dbconnect.php on line 15
+[17-May-2022 19:02:51 UTC] PHP Notice:  Undefined index: pass in /home/coveuyzh/public_html/user/dbconnect.php on line 16
+[17-May-2022 19:02:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'coveuyzh'@'localhost' (using password: NO) in /home/coveuyzh/public_html/user/dbconnect.php on line 23
+[17-May-2022 19:02:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/coveuyzh/public_html/user/referal.php on line 11
+[17-May-2022 19:02:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/coveuyzh/public_html/user/referal.php on line 12
+[17-May-2022 19:02:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/coveuyzh/public_html/user/referal.php on line 127
+[17-May-2022 19:02:51 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/coveuyzh/public_html/user/referal.php on line 129
+[17-May-2022 19:02:52 UTC] PHP Notice:  Undefined index: host in /home/coveuyzh/public_html/user/dbconnect.php on line 14
+[17-May-2022 19:02:52 UTC] PHP Notice:  Undefined index: user in /home/coveuyzh/public_html/user/dbconnect.php on line 15
+[17-May-2022 19:02:52 UTC] PHP Notice:  Undefined index: pass in /home/coveuyzh/public_html/user/dbconnect.php on line 16
+[17-May-2022 19:02:52 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'coveuyzh'@'localhost' (using password: NO) in /home/coveuyzh/public_html/user/dbconnect.php on line 23
+[17-May-2022 19:02:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/coveuyzh/public_html/user/userDashboard.php on line 11
+[17-May-2022 19:02:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/coveuyzh/public_html/user/userDashboard.php on line 12
+[17-May-2022 19:02:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/coveuyzh/public_html/user/userDashboard.php on line 126
+[17-May-2022 19:02:52 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/coveuyzh/public_html/user/userDashboard.php on line 128
+[17-May-2022 19:02:54 UTC] PHP Notice:  Undefined index: host in /home/coveuyzh/public_html/user/dbconnect.php on line 14
+[17-May-2022 19:02:54 UTC] PHP Notice:  Undefined index: user in /home/coveuyzh/public_html/user/dbconnect.php on line 15
+[17-May-2022 19:02:54 UTC] PHP Notice:  Undefined index: pass in /home/coveuyzh/public_html/user/dbconnect.php on line 16
+[17-May-2022 19:02:54 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'coveuyzh'@'localhost' (using password: NO) in /home/coveuyzh/public_html/user/dbconnect.php on line 23
+[17-May-2022 19:02:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/coveuyzh/public_html/user/referal.php on line 11
+[17-May-2022 19:02:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/coveuyzh/public_html/user/referal.php on line 12
+[17-May-2022 19:02:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/coveuyzh/public_html/user/referal.php on line 127
+[17-May-2022 19:02:54 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/coveuyzh/public_html/user/referal.php on line 129
+[17-May-2022 19:02:56 UTC] PHP Notice:  Undefined index: host in /home/coveuyzh/public_html/user/dbconnect.php on line 14
+[17-May-2022 19:02:56 UTC] PHP Notice:  Undefined index: user in /home/coveuyzh/public_html/user/dbconnect.php on line 15
+[17-May-2022 19:02:56 UTC] PHP Notice:  Undefined index: pass in /home/coveuyzh/public_html/user/dbconnect.php on line 16
+[17-May-2022 19:02:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'coveuyzh'@'localhost' (using password: NO) in /home/coveuyzh/public_html/user/dbconnect.php on line 23
+[17-May-2022 19:02:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/coveuyzh/public_html/user/referal.php on line 11
+[17-May-2022 19:02:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/coveuyzh/public_html/user/referal.php on line 12
+[17-May-2022 19:02:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/coveuyzh/public_html/user/referal.php on line 127
+[17-May-2022 19:02:56 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/coveuyzh/public_html/user/referal.php on line 129
+[17-May-2022 19:02:58 UTC] PHP Notice:  Undefined index: host in /home/coveuyzh/public_html/user/dbconnect.php on line 14
+[17-May-2022 19:02:58 UTC] PHP Notice:  Undefined index: user in /home/coveuyzh/public_html/user/dbconnect.php on line 15
+[17-May-2022 19:02:58 UTC] PHP Notice:  Undefined index: pass in /home/coveuyzh/public_html/user/dbconnect.php on line 16
+[17-May-2022 19:02:58 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'coveuyzh'@'localhost' (using password: NO) in /home/coveuyzh/public_html/user/dbconnect.php on line 23
+[17-May-2022 19:02:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/coveuyzh/public_html/user/referal.php on line 11
+[17-May-2022 19:02:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/coveuyzh/public_html/user/referal.php on line 12
+[17-May-2022 19:02:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/coveuyzh/public_html/user/referal.php on line 127
+[17-May-2022 19:02:58 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/coveuyzh/public_html/user/referal.php on line 129
+[17-May-2022 19:03:05 UTC] PHP Notice:  Undefined index: host in /home/coveuyzh/public_html/user/dbconnect.php on line 14
+[17-May-2022 19:03:05 UTC] PHP Notice:  Undefined index: user in /home/coveuyzh/public_html/user/dbconnect.php on line 15
+[17-May-2022 19:03:05 UTC] PHP Notice:  Undefined index: pass in /home/coveuyzh/public_html/user/dbconnect.php on line 16
+[17-May-2022 19:03:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'coveuyzh'@'localhost' (using password: NO) in /home/coveuyzh/public_html/user/dbconnect.php on line 23
+[17-May-2022 19:03:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/coveuyzh/public_html/user/userDashboard.php on line 11
+[17-May-2022 19:03:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/coveuyzh/public_html/user/userDashboard.php on line 12
+[17-May-2022 19:03:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/coveuyzh/public_html/user/userDashboard.php on line 126
+[17-May-2022 19:03:05 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/coveuyzh/public_html/user/userDashboard.php on line 128
+[17-May-2022 19:03:14 UTC] PHP Notice:  Undefined index: host in /home/coveuyzh/public_html/user/dbconnect.php on line 14
+[17-May-2022 19:03:14 UTC] PHP Notice:  Undefined index: user in /home/coveuyzh/public_html/user/dbconnect.php on line 15
+[17-May-2022 19:03:14 UTC] PHP Notice:  Undefined index: pass in /home/coveuyzh/public_html/user/dbconnect.php on line 16
+[17-May-2022 19:03:14 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'coveuyzh'@'localhost' (using password: NO) in /home/coveuyzh/public_html/user/dbconnect.php on line 23
+[17-May-2022 19:03:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/coveuyzh/public_html/user/referal.php on line 11
+[17-May-2022 19:03:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/coveuyzh/public_html/user/referal.php on line 12
+[17-May-2022 19:03:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/coveuyzh/public_html/user/referal.php on line 127
+[17-May-2022 19:03:14 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/coveuyzh/public_html/user/referal.php on line 129
+[17-May-2022 19:03:20 UTC] PHP Notice:  Undefined index: host in /home/coveuyzh/public_html/user/dbconnect.php on line 14
+[17-May-2022 19:03:20 UTC] PHP Notice:  Undefined index: user in /home/coveuyzh/public_html/user/dbconnect.php on line 15
+[17-May-2022 19:03:20 UTC] PHP Notice:  Undefined index: pass in /home/coveuyzh/public_html/user/dbconnect.php on line 16
+[17-May-2022 19:03:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'coveuyzh'@'localhost' (using password: NO) in /home/coveuyzh/public_html/user/dbconnect.php on line 23
+[17-May-2022 19:03:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/coveuyzh/public_html/user/userDashboard.php on line 11
+[17-May-2022 19:03:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/coveuyzh/public_html/user/userDashboard.php on line 12
+[17-May-2022 19:03:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/coveuyzh/public_html/user/userDashboard.php on line 126
+[17-May-2022 19:03:20 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/coveuyzh/public_html/user/userDashboard.php on line 128
+[17-May-2022 19:03:29 UTC] PHP Notice:  Undefined index: host in /home/coveuyzh/public_html/user/dbconnect.php on line 14
+[17-May-2022 19:03:29 UTC] PHP Notice:  Undefined index: user in /home/coveuyzh/public_html/user/dbconnect.php on line 15
+[17-May-2022 19:03:29 UTC] PHP Notice:  Undefined index: pass in /home/coveuyzh/public_html/user/dbconnect.php on line 16
+[17-May-2022 19:03:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'coveuyzh'@'localhost' (using password: NO) in /home/coveuyzh/public_html/user/dbconnect.php on line 23
+[17-May-2022 23:44:10 UTC] PHP Notice:  Undefined index: userSession in /home/coveuyzh/public_html/user/userDashboard.php on line 10
+[18-May-2022 00:21:47 UTC] PHP Notice:  Undefined index: userSession in /home/coveuyzh/public_html/user/referal.php on line 10
+[18-May-2022 07:55:12 UTC] PHP Notice:  Undefined index: userSession in /home/coveuyzh/public_html/user/userDashboard.php on line 10
+[18-May-2022 14:04:03 UTC] PHP Notice:  Undefined index: userSession in /home/coveuyzh/public_html/user/userDashboard.php on line 10
+[18-May-2022 14:51:35 UTC] PHP Notice:  Undefined index: userSession in /home/coveuyzh/public_html/user/userDashboard.php on line 10
+[18-May-2022 15:03:33 UTC] PHP Notice:  Undefined index: userSession in /home/coveuyzh/public_html/user/referal.php on line 10
+[20-May-2022 10:31:59 UTC] PHP Notice:  Undefined index: userSession in /home/coveuyzh/public_html/user/userDashboard.php on line 10
+[20-May-2022 10:55:17 UTC] PHP Notice:  Undefined index: userSession in /home/coveuyzh/public_html/user/userDashboard.php on line 10
+[20-May-2022 17:47:18 UTC] PHP Notice:  Undefined index: userSession in /home/coveuyzh/public_html/user/referal.php on line 10
+[20-May-2022 20:12:37 UTC] PHP Notice:  Undefined index: userSession in /home/coveuyzh/public_html/user/userDashboard.php on line 10
+[21-May-2022 22:04:10 UTC] PHP Notice:  Undefined index: userSession in /home/coveuyzh/public_html/user/userDashboard.php on line 10
+[04-Jun-2022 17:48:40 UTC] PHP Notice:  Undefined index: icPatient in /home/coveuyzh/public_html/user/user_profile.php on line 202
+[04-Jun-2022 17:48:40 UTC] PHP Notice:  Undefined index: patientFirstName in /home/coveuyzh/public_html/user/user_profile.php on line 206
+[04-Jun-2022 17:48:40 UTC] PHP Notice:  Undefined index: patientLastName in /home/coveuyzh/public_html/user/user_profile.php on line 210
+[04-Jun-2022 17:48:40 UTC] PHP Notice:  Undefined variable: single in /home/coveuyzh/public_html/user/user_profile.php on line 218
+[04-Jun-2022 17:48:40 UTC] PHP Notice:  Undefined variable: married in /home/coveuyzh/public_html/user/user_profile.php on line 221
+[04-Jun-2022 17:48:40 UTC] PHP Notice:  Undefined variable: separated in /home/coveuyzh/public_html/user/user_profile.php on line 224
+[04-Jun-2022 17:48:40 UTC] PHP Notice:  Undefined variable: divorced in /home/coveuyzh/public_html/user/user_profile.php on line 227
+[04-Jun-2022 17:48:40 UTC] PHP Notice:  Undefined variable: widowed in /home/coveuyzh/public_html/user/user_profile.php on line 230
+[04-Jun-2022 17:48:40 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 237
+[04-Jun-2022 17:48:40 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 246
+[04-Jun-2022 17:48:40 UTC] PHP Notice:  Undefined variable: male in /home/coveuyzh/public_html/user/user_profile.php on line 257
+[04-Jun-2022 17:48:40 UTC] PHP Notice:  Undefined variable: female in /home/coveuyzh/public_html/user/user_profile.php on line 260
+[04-Jun-2022 17:48:40 UTC] PHP Notice:  Undefined index: patientPhone in /home/coveuyzh/public_html/user/user_profile.php on line 268
+[04-Jun-2022 17:48:40 UTC] PHP Notice:  Undefined index: patientEmail in /home/coveuyzh/public_html/user/user_profile.php on line 272
+[04-Jun-2022 17:48:40 UTC] PHP Notice:  Undefined index: patientAddress in /home/coveuyzh/public_html/user/user_profile.php on line 276
+[04-Jun-2022 18:05:21 UTC] PHP Notice:  Undefined variable: single in /home/coveuyzh/public_html/user/user_profile.php on line 215
+[04-Jun-2022 18:05:21 UTC] PHP Notice:  Undefined variable: married in /home/coveuyzh/public_html/user/user_profile.php on line 218
+[04-Jun-2022 18:05:21 UTC] PHP Notice:  Undefined variable: separated in /home/coveuyzh/public_html/user/user_profile.php on line 221
+[04-Jun-2022 18:05:21 UTC] PHP Notice:  Undefined variable: divorced in /home/coveuyzh/public_html/user/user_profile.php on line 224
+[04-Jun-2022 18:05:21 UTC] PHP Notice:  Undefined variable: widowed in /home/coveuyzh/public_html/user/user_profile.php on line 227
+[04-Jun-2022 18:05:21 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 234
+[04-Jun-2022 18:05:21 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 243
+[04-Jun-2022 18:05:21 UTC] PHP Notice:  Undefined variable: male in /home/coveuyzh/public_html/user/user_profile.php on line 254
+[04-Jun-2022 18:05:21 UTC] PHP Notice:  Undefined variable: female in /home/coveuyzh/public_html/user/user_profile.php on line 257
+[04-Jun-2022 18:05:21 UTC] PHP Notice:  Undefined index: address in /home/coveuyzh/public_html/user/user_profile.php on line 273
+[04-Jun-2022 19:10:03 UTC] PHP Notice:  Undefined index: past_event_time in /home/coveuyzh/public_html/user/event_history.php on line 173
+[04-Jun-2022 19:10:03 UTC] PHP Notice:  Undefined index: past_event_time in /home/coveuyzh/public_html/user/event_history.php on line 173
+[04-Jun-2022 19:10:16 UTC] PHP Notice:  Undefined index: current_event_time in /home/coveuyzh/public_html/user/event_list.php on line 173
+[04-Jun-2022 19:10:16 UTC] PHP Notice:  Undefined index: current_event_time in /home/coveuyzh/public_html/user/event_list.php on line 173
+[04-Jun-2022 21:29:17 UTC] PHP Notice:  Undefined index: userSession in /home/coveuyzh/public_html/user/userDashboard.php on line 10
+[04-Jun-2022 21:33:14 UTC] PHP Notice:  Undefined variable: single in /home/coveuyzh/public_html/user/user_profile.php on line 215
+[04-Jun-2022 21:33:14 UTC] PHP Notice:  Undefined variable: married in /home/coveuyzh/public_html/user/user_profile.php on line 218
+[04-Jun-2022 21:33:14 UTC] PHP Notice:  Undefined variable: separated in /home/coveuyzh/public_html/user/user_profile.php on line 221
+[04-Jun-2022 21:33:14 UTC] PHP Notice:  Undefined variable: divorced in /home/coveuyzh/public_html/user/user_profile.php on line 224
+[04-Jun-2022 21:33:14 UTC] PHP Notice:  Undefined variable: widowed in /home/coveuyzh/public_html/user/user_profile.php on line 227
+[04-Jun-2022 21:33:14 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 234
+[04-Jun-2022 21:33:14 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 243
+[04-Jun-2022 21:33:14 UTC] PHP Notice:  Undefined variable: male in /home/coveuyzh/public_html/user/user_profile.php on line 254
+[04-Jun-2022 21:33:14 UTC] PHP Notice:  Undefined variable: female in /home/coveuyzh/public_html/user/user_profile.php on line 257
+[04-Jun-2022 21:33:14 UTC] PHP Notice:  Undefined index: address in /home/coveuyzh/public_html/user/user_profile.php on line 273
+[04-Jun-2022 21:36:34 UTC] PHP Notice:  Undefined index: current_event_time in /home/coveuyzh/public_html/user/event_list.php on line 173
+[04-Jun-2022 21:36:34 UTC] PHP Notice:  Undefined index: current_event_time in /home/coveuyzh/public_html/user/event_list.php on line 173
+[04-Jun-2022 21:36:42 UTC] PHP Notice:  Undefined index: past_event_time in /home/coveuyzh/public_html/user/event_history.php on line 173
+[04-Jun-2022 21:36:42 UTC] PHP Notice:  Undefined index: past_event_time in /home/coveuyzh/public_html/user/event_history.php on line 173
+[06-Jun-2022 14:58:19 UTC] PHP Notice:  Undefined index: userSession in /home/coveuyzh/public_html/user/event_list.php on line 10
+[06-Jun-2022 14:58:19 UTC] PHP Notice:  Undefined index: current_event_time in /home/coveuyzh/public_html/user/event_list.php on line 173
+[06-Jun-2022 14:58:19 UTC] PHP Notice:  Undefined index: current_event_time in /home/coveuyzh/public_html/user/event_list.php on line 173
+[06-Jun-2022 14:59:49 UTC] PHP Notice:  Undefined index: userSession in /home/coveuyzh/public_html/user/userDashboard.php on line 10
+[06-Jun-2022 14:59:53 UTC] PHP Notice:  Undefined index: userSession in /home/coveuyzh/public_html/user/userDashboard.php on line 10
+[06-Jun-2022 19:31:55 UTC] PHP Notice:  Undefined index: current_event_time in /home/coveuyzh/public_html/user/event_list.php on line 173
+[06-Jun-2022 19:31:55 UTC] PHP Notice:  Undefined index: current_event_time in /home/coveuyzh/public_html/user/event_list.php on line 173
+[06-Jun-2022 19:32:52 UTC] PHP Notice:  Undefined index: past_event_time in /home/coveuyzh/public_html/user/event_history.php on line 173
+[06-Jun-2022 19:32:52 UTC] PHP Notice:  Undefined index: past_event_time in /home/coveuyzh/public_html/user/event_history.php on line 173
+[06-Jun-2022 19:35:16 UTC] PHP Notice:  Undefined variable: single in /home/coveuyzh/public_html/user/user_profile.php on line 215
+[06-Jun-2022 19:35:16 UTC] PHP Notice:  Undefined variable: married in /home/coveuyzh/public_html/user/user_profile.php on line 218
+[06-Jun-2022 19:35:16 UTC] PHP Notice:  Undefined variable: separated in /home/coveuyzh/public_html/user/user_profile.php on line 221
+[06-Jun-2022 19:35:16 UTC] PHP Notice:  Undefined variable: divorced in /home/coveuyzh/public_html/user/user_profile.php on line 224
+[06-Jun-2022 19:35:16 UTC] PHP Notice:  Undefined variable: widowed in /home/coveuyzh/public_html/user/user_profile.php on line 227
+[06-Jun-2022 19:35:16 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 234
+[06-Jun-2022 19:35:16 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 243
+[06-Jun-2022 19:35:16 UTC] PHP Notice:  Undefined variable: male in /home/coveuyzh/public_html/user/user_profile.php on line 254
+[06-Jun-2022 19:35:16 UTC] PHP Notice:  Undefined variable: female in /home/coveuyzh/public_html/user/user_profile.php on line 257
+[06-Jun-2022 19:35:16 UTC] PHP Notice:  Undefined index: address in /home/coveuyzh/public_html/user/user_profile.php on line 273
+[07-Jun-2022 13:14:57 UTC] PHP Notice:  Undefined index: past_event_time in /home/coveuyzh/public_html/user/event_history.php on line 173
+[07-Jun-2022 13:14:57 UTC] PHP Notice:  Undefined index: past_event_time in /home/coveuyzh/public_html/user/event_history.php on line 173
+[07-Jun-2022 13:16:35 UTC] PHP Notice:  Undefined index: current_event_time in /home/coveuyzh/public_html/user/event_list.php on line 173
+[07-Jun-2022 13:16:35 UTC] PHP Notice:  Undefined index: current_event_time in /home/coveuyzh/public_html/user/event_list.php on line 173
+[07-Jun-2022 13:16:38 UTC] PHP Notice:  Undefined index: current_event_time in /home/coveuyzh/public_html/user/event_list.php on line 173
+[07-Jun-2022 13:16:38 UTC] PHP Notice:  Undefined index: current_event_time in /home/coveuyzh/public_html/user/event_list.php on line 173
+[07-Jun-2022 13:19:05 UTC] PHP Notice:  Undefined index: past_event_time in /home/coveuyzh/public_html/user/event_history.php on line 173
+[07-Jun-2022 13:19:05 UTC] PHP Notice:  Undefined index: past_event_time in /home/coveuyzh/public_html/user/event_history.php on line 173
+[07-Jun-2022 13:19:34 UTC] PHP Notice:  Undefined index: current_event_time in /home/coveuyzh/public_html/user/event_list.php on line 173
+[07-Jun-2022 13:19:34 UTC] PHP Notice:  Undefined index: current_event_time in /home/coveuyzh/public_html/user/event_list.php on line 173
+[07-Jun-2022 13:19:49 UTC] PHP Notice:  Undefined index: past_event_time in /home/coveuyzh/public_html/user/event_history.php on line 173
+[07-Jun-2022 13:19:49 UTC] PHP Notice:  Undefined index: past_event_time in /home/coveuyzh/public_html/user/event_history.php on line 173
+[07-Jun-2022 13:19:54 UTC] PHP Notice:  Undefined index: past_event_time in /home/coveuyzh/public_html/user/event_history.php on line 173
+[07-Jun-2022 13:19:54 UTC] PHP Notice:  Undefined index: past_event_time in /home/coveuyzh/public_html/user/event_history.php on line 173
+[07-Jun-2022 13:20:21 UTC] PHP Notice:  Undefined index: past_event_time in /home/coveuyzh/public_html/user/event_history.php on line 173
+[07-Jun-2022 13:20:21 UTC] PHP Notice:  Undefined index: past_event_time in /home/coveuyzh/public_html/user/event_history.php on line 173
+[07-Jun-2022 13:20:46 UTC] PHP Notice:  Undefined index: past_event_time in /home/coveuyzh/public_html/user/event_history.php on line 173
+[07-Jun-2022 13:20:46 UTC] PHP Notice:  Undefined index: past_event_time in /home/coveuyzh/public_html/user/event_history.php on line 173
+[07-Jun-2022 13:31:21 UTC] PHP Notice:  Undefined index: current_event_time in /home/coveuyzh/public_html/user/event_list.php on line 173
+[07-Jun-2022 13:31:21 UTC] PHP Notice:  Undefined index: current_event_time in /home/coveuyzh/public_html/user/event_list.php on line 173
+[07-Jun-2022 13:34:08 UTC] PHP Notice:  Undefined variable: single in /home/coveuyzh/public_html/user/user_profile.php on line 215
+[07-Jun-2022 13:34:08 UTC] PHP Notice:  Undefined variable: married in /home/coveuyzh/public_html/user/user_profile.php on line 218
+[07-Jun-2022 13:34:08 UTC] PHP Notice:  Undefined variable: separated in /home/coveuyzh/public_html/user/user_profile.php on line 221
+[07-Jun-2022 13:34:08 UTC] PHP Notice:  Undefined variable: divorced in /home/coveuyzh/public_html/user/user_profile.php on line 224
+[07-Jun-2022 13:34:08 UTC] PHP Notice:  Undefined variable: widowed in /home/coveuyzh/public_html/user/user_profile.php on line 227
+[07-Jun-2022 13:34:08 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 234
+[07-Jun-2022 13:34:08 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 243
+[07-Jun-2022 13:34:08 UTC] PHP Notice:  Undefined variable: male in /home/coveuyzh/public_html/user/user_profile.php on line 254
+[07-Jun-2022 13:34:08 UTC] PHP Notice:  Undefined variable: female in /home/coveuyzh/public_html/user/user_profile.php on line 257
+[07-Jun-2022 13:34:08 UTC] PHP Notice:  Undefined index: address in /home/coveuyzh/public_html/user/user_profile.php on line 273
+[07-Jun-2022 13:39:34 UTC] PHP Notice:  Undefined variable: single in /home/coveuyzh/public_html/user/user_profile.php on line 215
+[07-Jun-2022 13:39:34 UTC] PHP Notice:  Undefined variable: married in /home/coveuyzh/public_html/user/user_profile.php on line 218
+[07-Jun-2022 13:39:34 UTC] PHP Notice:  Undefined variable: separated in /home/coveuyzh/public_html/user/user_profile.php on line 221
+[07-Jun-2022 13:39:34 UTC] PHP Notice:  Undefined variable: divorced in /home/coveuyzh/public_html/user/user_profile.php on line 224
+[07-Jun-2022 13:39:34 UTC] PHP Notice:  Undefined variable: widowed in /home/coveuyzh/public_html/user/user_profile.php on line 227
+[07-Jun-2022 13:39:34 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 234
+[07-Jun-2022 13:39:34 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 243
+[07-Jun-2022 13:39:34 UTC] PHP Notice:  Undefined variable: male in /home/coveuyzh/public_html/user/user_profile.php on line 254
+[07-Jun-2022 13:39:34 UTC] PHP Notice:  Undefined variable: female in /home/coveuyzh/public_html/user/user_profile.php on line 257
+[07-Jun-2022 13:39:34 UTC] PHP Notice:  Undefined index: address in /home/coveuyzh/public_html/user/user_profile.php on line 273
+[07-Jun-2022 13:48:54 UTC] PHP Notice:  Undefined index: current_event_time in /home/coveuyzh/public_html/user/event_list.php on line 173
+[07-Jun-2022 13:48:54 UTC] PHP Notice:  Undefined index: current_event_time in /home/coveuyzh/public_html/user/event_list.php on line 173
+[07-Jun-2022 13:50:44 UTC] PHP Notice:  Undefined variable: single in /home/coveuyzh/public_html/user/user_profile.php on line 215
+[07-Jun-2022 13:50:44 UTC] PHP Notice:  Undefined variable: married in /home/coveuyzh/public_html/user/user_profile.php on line 218
+[07-Jun-2022 13:50:44 UTC] PHP Notice:  Undefined variable: separated in /home/coveuyzh/public_html/user/user_profile.php on line 221
+[07-Jun-2022 13:50:44 UTC] PHP Notice:  Undefined variable: divorced in /home/coveuyzh/public_html/user/user_profile.php on line 224
+[07-Jun-2022 13:50:44 UTC] PHP Notice:  Undefined variable: widowed in /home/coveuyzh/public_html/user/user_profile.php on line 227
+[07-Jun-2022 13:50:44 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 234
+[07-Jun-2022 13:50:44 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 243
+[07-Jun-2022 13:50:44 UTC] PHP Notice:  Undefined variable: male in /home/coveuyzh/public_html/user/user_profile.php on line 254
+[07-Jun-2022 13:50:44 UTC] PHP Notice:  Undefined variable: female in /home/coveuyzh/public_html/user/user_profile.php on line 257
+[07-Jun-2022 13:50:44 UTC] PHP Notice:  Undefined index: address in /home/coveuyzh/public_html/user/user_profile.php on line 273
+[07-Jun-2022 13:50:49 UTC] PHP Notice:  Undefined index: current_event_time in /home/coveuyzh/public_html/user/event_list.php on line 173
+[07-Jun-2022 13:50:49 UTC] PHP Notice:  Undefined index: current_event_time in /home/coveuyzh/public_html/user/event_list.php on line 173
+[07-Jun-2022 13:53:29 UTC] PHP Notice:  Undefined variable: single in /home/coveuyzh/public_html/user/user_profile.php on line 215
+[07-Jun-2022 13:53:29 UTC] PHP Notice:  Undefined variable: married in /home/coveuyzh/public_html/user/user_profile.php on line 218
+[07-Jun-2022 13:53:29 UTC] PHP Notice:  Undefined variable: separated in /home/coveuyzh/public_html/user/user_profile.php on line 221
+[07-Jun-2022 13:53:29 UTC] PHP Notice:  Undefined variable: divorced in /home/coveuyzh/public_html/user/user_profile.php on line 224
+[07-Jun-2022 13:53:29 UTC] PHP Notice:  Undefined variable: widowed in /home/coveuyzh/public_html/user/user_profile.php on line 227
+[07-Jun-2022 13:53:29 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 234
+[07-Jun-2022 13:53:29 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 243
+[07-Jun-2022 13:53:29 UTC] PHP Notice:  Undefined variable: male in /home/coveuyzh/public_html/user/user_profile.php on line 254
+[07-Jun-2022 13:53:29 UTC] PHP Notice:  Undefined variable: female in /home/coveuyzh/public_html/user/user_profile.php on line 257
+[07-Jun-2022 13:53:29 UTC] PHP Notice:  Undefined index: address in /home/coveuyzh/public_html/user/user_profile.php on line 273
+[07-Jun-2022 13:53:29 UTC] PHP Notice:  Undefined variable: single in /home/coveuyzh/public_html/user/user_profile.php on line 215
+[07-Jun-2022 13:53:29 UTC] PHP Notice:  Undefined variable: married in /home/coveuyzh/public_html/user/user_profile.php on line 218
+[07-Jun-2022 13:53:29 UTC] PHP Notice:  Undefined variable: separated in /home/coveuyzh/public_html/user/user_profile.php on line 221
+[07-Jun-2022 13:53:29 UTC] PHP Notice:  Undefined variable: divorced in /home/coveuyzh/public_html/user/user_profile.php on line 224
+[07-Jun-2022 13:53:29 UTC] PHP Notice:  Undefined variable: widowed in /home/coveuyzh/public_html/user/user_profile.php on line 227
+[07-Jun-2022 13:53:29 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 234
+[07-Jun-2022 13:53:29 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 243
+[07-Jun-2022 13:53:29 UTC] PHP Notice:  Undefined variable: male in /home/coveuyzh/public_html/user/user_profile.php on line 254
+[07-Jun-2022 13:53:29 UTC] PHP Notice:  Undefined variable: female in /home/coveuyzh/public_html/user/user_profile.php on line 257
+[07-Jun-2022 13:53:29 UTC] PHP Notice:  Undefined index: address in /home/coveuyzh/public_html/user/user_profile.php on line 273
+[07-Jun-2022 13:54:20 UTC] PHP Notice:  Undefined variable: single in /home/coveuyzh/public_html/user/user_profile.php on line 215
+[07-Jun-2022 13:54:20 UTC] PHP Notice:  Undefined variable: married in /home/coveuyzh/public_html/user/user_profile.php on line 218
+[07-Jun-2022 13:54:20 UTC] PHP Notice:  Undefined variable: separated in /home/coveuyzh/public_html/user/user_profile.php on line 221
+[07-Jun-2022 13:54:20 UTC] PHP Notice:  Undefined variable: divorced in /home/coveuyzh/public_html/user/user_profile.php on line 224
+[07-Jun-2022 13:54:20 UTC] PHP Notice:  Undefined variable: widowed in /home/coveuyzh/public_html/user/user_profile.php on line 227
+[07-Jun-2022 13:54:20 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 234
+[07-Jun-2022 13:54:20 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 243
+[07-Jun-2022 13:54:20 UTC] PHP Notice:  Undefined variable: male in /home/coveuyzh/public_html/user/user_profile.php on line 254
+[07-Jun-2022 13:54:20 UTC] PHP Notice:  Undefined variable: female in /home/coveuyzh/public_html/user/user_profile.php on line 257
+[07-Jun-2022 13:54:20 UTC] PHP Notice:  Undefined index: address in /home/coveuyzh/public_html/user/user_profile.php on line 273
+[07-Jun-2022 13:54:50 UTC] PHP Notice:  Undefined variable: single in /home/coveuyzh/public_html/user/user_profile.php on line 215
+[07-Jun-2022 13:54:50 UTC] PHP Notice:  Undefined variable: married in /home/coveuyzh/public_html/user/user_profile.php on line 218
+[07-Jun-2022 13:54:50 UTC] PHP Notice:  Undefined variable: separated in /home/coveuyzh/public_html/user/user_profile.php on line 221
+[07-Jun-2022 13:54:50 UTC] PHP Notice:  Undefined variable: divorced in /home/coveuyzh/public_html/user/user_profile.php on line 224
+[07-Jun-2022 13:54:50 UTC] PHP Notice:  Undefined variable: widowed in /home/coveuyzh/public_html/user/user_profile.php on line 227
+[07-Jun-2022 13:54:50 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 234
+[07-Jun-2022 13:54:50 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 243
+[07-Jun-2022 13:54:50 UTC] PHP Notice:  Undefined variable: male in /home/coveuyzh/public_html/user/user_profile.php on line 254
+[07-Jun-2022 13:54:50 UTC] PHP Notice:  Undefined variable: female in /home/coveuyzh/public_html/user/user_profile.php on line 257
+[07-Jun-2022 13:54:50 UTC] PHP Notice:  Undefined index: address in /home/coveuyzh/public_html/user/user_profile.php on line 273
+[07-Jun-2022 13:55:07 UTC] PHP Notice:  Undefined variable: single in /home/coveuyzh/public_html/user/user_profile.php on line 215
+[07-Jun-2022 13:55:07 UTC] PHP Notice:  Undefined variable: married in /home/coveuyzh/public_html/user/user_profile.php on line 218
+[07-Jun-2022 13:55:07 UTC] PHP Notice:  Undefined variable: separated in /home/coveuyzh/public_html/user/user_profile.php on line 221
+[07-Jun-2022 13:55:07 UTC] PHP Notice:  Undefined variable: divorced in /home/coveuyzh/public_html/user/user_profile.php on line 224
+[07-Jun-2022 13:55:07 UTC] PHP Notice:  Undefined variable: widowed in /home/coveuyzh/public_html/user/user_profile.php on line 227
+[07-Jun-2022 13:55:07 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 234
+[07-Jun-2022 13:55:07 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 243
+[07-Jun-2022 13:55:07 UTC] PHP Notice:  Undefined variable: male in /home/coveuyzh/public_html/user/user_profile.php on line 254
+[07-Jun-2022 13:55:07 UTC] PHP Notice:  Undefined variable: female in /home/coveuyzh/public_html/user/user_profile.php on line 257
+[07-Jun-2022 13:55:07 UTC] PHP Notice:  Undefined index: address in /home/coveuyzh/public_html/user/user_profile.php on line 273
+[07-Jun-2022 13:55:37 UTC] PHP Notice:  Undefined variable: single in /home/coveuyzh/public_html/user/user_profile.php on line 215
+[07-Jun-2022 13:55:37 UTC] PHP Notice:  Undefined variable: married in /home/coveuyzh/public_html/user/user_profile.php on line 218
+[07-Jun-2022 13:55:37 UTC] PHP Notice:  Undefined variable: separated in /home/coveuyzh/public_html/user/user_profile.php on line 221
+[07-Jun-2022 13:55:37 UTC] PHP Notice:  Undefined variable: divorced in /home/coveuyzh/public_html/user/user_profile.php on line 224
+[07-Jun-2022 13:55:37 UTC] PHP Notice:  Undefined variable: widowed in /home/coveuyzh/public_html/user/user_profile.php on line 227
+[07-Jun-2022 13:55:37 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 234
+[07-Jun-2022 13:55:37 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 243
+[07-Jun-2022 13:55:37 UTC] PHP Notice:  Undefined variable: male in /home/coveuyzh/public_html/user/user_profile.php on line 254
+[07-Jun-2022 13:55:37 UTC] PHP Notice:  Undefined variable: female in /home/coveuyzh/public_html/user/user_profile.php on line 257
+[07-Jun-2022 13:55:37 UTC] PHP Notice:  Undefined index: address in /home/coveuyzh/public_html/user/user_profile.php on line 273
+[07-Jun-2022 15:38:51 UTC] PHP Notice:  Undefined index: past_event_time in /home/coveuyzh/public_html/user/event_history.php on line 173
+[07-Jun-2022 15:38:51 UTC] PHP Notice:  Undefined index: past_event_time in /home/coveuyzh/public_html/user/event_history.php on line 173
+[07-Jun-2022 17:27:51 UTC] PHP Notice:  Undefined variable: single in /home/coveuyzh/public_html/user/user_profile.php on line 215
+[07-Jun-2022 17:27:51 UTC] PHP Notice:  Undefined variable: married in /home/coveuyzh/public_html/user/user_profile.php on line 218
+[07-Jun-2022 17:27:51 UTC] PHP Notice:  Undefined variable: separated in /home/coveuyzh/public_html/user/user_profile.php on line 221
+[07-Jun-2022 17:27:51 UTC] PHP Notice:  Undefined variable: divorced in /home/coveuyzh/public_html/user/user_profile.php on line 224
+[07-Jun-2022 17:27:51 UTC] PHP Notice:  Undefined variable: widowed in /home/coveuyzh/public_html/user/user_profile.php on line 227
+[07-Jun-2022 17:27:51 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 234
+[07-Jun-2022 17:27:51 UTC] PHP Notice:  Undefined index: patientDOB in /home/coveuyzh/public_html/user/user_profile.php on line 243
+[07-Jun-2022 17:27:51 UTC] PHP Notice:  Undefined variable: male in /home/coveuyzh/public_html/user/user_profile.php on line 254
+[07-Jun-2022 17:27:51 UTC] PHP Notice:  Undefined variable: female in /home/coveuyzh/public_html/user/user_profile.php on line 257
+[07-Jun-2022 17:27:51 UTC] PHP Notice:  Undefined index: address in /home/coveuyzh/public_html/user/user_profile.php on line 273
+[07-Jun-2022 17:29:54 UTC] PHP Notice:  Undefined index: current_event_time in /home/coveuyzh/public_html/user/event_list.php on line 173
+[07-Jun-2022 17:29:54 UTC] PHP Notice:  Undefined index: current_event_time in /home/coveuyzh/public_html/user/event_list.php on line 173
+[07-Jun-2022 17:30:18 UTC] PHP Notice:  Undefined index: current_event_time in /home/coveuyzh/public_html/user/event_list.php on line 173
+[07-Jun-2022 17:30:18 UTC] PHP Notice:  Undefined index: current_event_time in /home/coveuyzh/public_html/user/event_list.php on line 173
+[07-Jun-2022 17:30:59 UTC] PHP Notice:  Undefined index: current_event_time in /home/coveuyzh/public_html/user/event_list.php on line 173
+[07-Jun-2022 17:30:59 UTC] PHP Notice:  Undefined index: current_event_time in /home/coveuyzh/public_html/user/event_list.php on line 173
+[07-Jun-2022 17:31:47 UTC] PHP Notice:  Undefined index: past_event_time in /home/coveuyzh/public_html/user/event_history.php on line 173
+[07-Jun-2022 17:31:47 UTC] PHP Notice:  Undefined index: past_event_time in /home/coveuyzh/public_html/user/event_history.php on line 173
+[07-Jun-2022 18:17:09 UTC] PHP Notice:  Undefined index: userSession in /home/coveuyzh/public_html/user/account_history.php on line 10
